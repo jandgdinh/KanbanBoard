@@ -26,4 +26,4 @@
 
 
   ## Questions
-  If you have any questions, please open an issue or contact me directly at jandgdinh@gmail.com. You can find more of my work at https://github.com/jandgdinh
+  If you have any questions, please open an issue or contact me directly at jandgdinh@gmail.com. You can find more of my work at https://github.com/jandgdinh or https://github.com/koukijohn
